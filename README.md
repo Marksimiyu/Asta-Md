@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z">
-    <img alt="Asta" height="300" src="https://i.imgur.com/lIo3cM2.jpeg">
+    <img alt="A red car" height="300" src="https://imgur.com/gallery/TK85cGl">
     <h1 align="center">ASTA-MD 2.5.O *Replit Support Ended*</h1>
   </a>
 </p>
